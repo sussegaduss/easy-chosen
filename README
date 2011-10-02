@@ -1,0 +1,3 @@
+# Javascript version of chosen.jquery(http://harvesthq.github.com/chosen/). 
+Allows to bypass some iso8859 chars on search box. 
+Typing "Não" will match "Não" and "Nao". click to edit
